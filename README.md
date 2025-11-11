@@ -25,4 +25,4 @@ JavaScript – API integration and dynamic updates
 📚 Purpose:
 This project was created as part of IEEE Web Development Project Series, to understand API handling, DOM manipulation, and frontend design concepts.
 
-Link to open:- [Weather Project](https://keshavkrishnamit.github.io/IEEE_Project1_Weather_Page/)
+Link to open:- [Weather Project](https://keshavkrishnamit.github.io/WebDev_WeatherPage/)
